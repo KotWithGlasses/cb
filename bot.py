@@ -1,6 +1,6 @@
 import asyncio
 import logging
-
+print("djndjn")
 from aiogram import Bot, Dispatcher
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.contrib.fsm_storage.redis import RedisStorage2
